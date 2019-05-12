@@ -15,12 +15,17 @@
 
 html {
   font-size: 100%;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
 	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
+  margin: 0 0 100px;
+/* bottom = footer height */
+  padding: 85px;
 }
 
 .container {
@@ -316,6 +321,12 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+  background-color: orange;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  overflow: hidden;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
