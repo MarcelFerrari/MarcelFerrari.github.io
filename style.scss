@@ -239,9 +239,22 @@ nav {
 //
 // .main
 //
-.white{
+.page-title{
   color: white;
+  text-decoration: none;
 }
+
+.page-title:hover{
+  color: white;
+  text-decoration: none;
+  background-color: #DB2763;
+}
+
+.page-title:active{
+  color: white;
+  text-decoration: none;
+}
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
