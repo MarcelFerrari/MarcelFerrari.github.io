@@ -239,6 +239,26 @@ nav {
 //
 // .main
 //
+.cool-link {
+    display: inline-block;
+    color: #DB2763;
+    text-decoration: none;
+}
+
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #DB2763;
+    transition: width .3s;
+}
+
+.cool-link:hover::after {
+    width: 100%;
+    //transition: width .3s;
+}
+
 .page-title{
   color: white;
   text-decoration: none;
@@ -247,7 +267,6 @@ nav {
 .page-title:hover{
   color: white;
   text-decoration: none;
-  background-color: #DB2763;
 }
 
 .page-title:active{
