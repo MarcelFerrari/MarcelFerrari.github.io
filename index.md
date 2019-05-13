@@ -16,7 +16,7 @@ I hope you will like what I have to share and that you may, in some obscure mann
 
 ### About me!
 
-<img src="/Users/marcel/Documents/GitHub/MarcelFerrari.github.io/images/index/me.jpg" style="max-height:450px; border: 2px solid black;">
+<img src="/images/index/me.jpg" style="max-height:450px; border: 2px solid black;">
 
 
 
