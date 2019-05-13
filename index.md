@@ -16,7 +16,7 @@ I hope you will like what I have to share and that you may, in some obscure mann
 
 ### About me!
 
-<hr><div style="text-align:center; padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:450px;"></div><hr>
+<div style="text-align:center; padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:450px;"></div>
 
 
 
