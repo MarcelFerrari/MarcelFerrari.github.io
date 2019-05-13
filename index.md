@@ -16,7 +16,7 @@ I hope you will like what I have to share and that you may, in some obscure mann
 
 ### About me!
 
-<img src="/images/index/me.jpg" style="max-height:450px; border: 2px solid black;">
+<div style="text-align:center"><img src="/images/index/me.jpg" style="max-height:450px; border: 1px solid $lightgray;"></div>
 
 
 
