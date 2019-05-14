@@ -20,7 +20,7 @@ I hope you will like what I have to share and that you may, in some obscure mann
 
 
 
-I am an 18 year old student from Ticino in Switzerland. Currently I am working on my high school final project and in a year I will move to Zürich to start studying physics at **ETH.**
+I am an 18 year old student from Ticino in Switzerland. Currently I am working on my high school final project and in a year I will move to Zürich to (hopefully) start studying physics at **ETH.**
 
 I am very passionate about a lot of things, <u>some of which</u> are:
 

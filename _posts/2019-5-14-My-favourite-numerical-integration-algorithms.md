@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: My favourite beginner friendly numerical integration algorithms (Python implementation)
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+### Introduction
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Integrating complicated mathematical functions can be really painful and sometimes and sometimes it can impossible to find an elementary indefinite integral (–Hello there $e^{-x^{{2}}}$!–). Luckily there is an other approach to solving integrals: **numerical integration algorithms**.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Numerical integration algorithms allow us to calculate an approximation of the value of an integral with a very good degree accuracy, without having to go through many (and maybe also complicated) steps. Their simplicity is also their strength: since these algorithms only require a few elementary operations (namely $ +, -,\times, \div $) they are often quite fast to compute ()
