@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use your Mac as a PS4 (Pro) screen!
+title: Use your Mac as a PS4 (Pro) screen! – Remote play through ethernet cable on OSX!
 ---
 
 If, like me, you have ever wanted to play your favourite PS4 games while comfortably sitting at your desk and without having the inconvenience of a second screen, you have come to the right place!
