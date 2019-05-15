@@ -15,7 +15,7 @@ Here you will find posts about the most random things, ranging from computer sci
 I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 
 ### About me!
-<p style="padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:1000px"></p>
+<p style="padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:1000px">
 
 
 
@@ -28,7 +28,7 @@ I am very passionate about a lot of things, <u>some of which</u> are:
 * Video games (huge Dark Souls fan)
 * Photography and Videography
 * Music (I love playing the drums)
-
+</p>
 ### What am I up to now?
 
 As I mentioned earlier I am currently working on my final high school project in which I try to recreate a study conducted on HIV epitopes which were implanted in a super stable protein called Top7. I will be running some molecular dynamics to simulate said protein and hopefully confirm the aforementioned study by obtaining identical results.
