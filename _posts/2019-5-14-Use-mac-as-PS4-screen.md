@@ -34,30 +34,40 @@ This step isn't difficult so I'm going to leave that to you.
 
 Now that you have *PS4 Remote Play* installed, it is time to connect one end of the **ethernet** cable to the PS4 and the other end to your Computer as shown in the pictures.
 
+![cables](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/cables.jpg)
+
 ---
 
 Once you have connected your Apple computer to your PS4 it is time to mess with the network settings found in *System Preferences*.
 
 Open the network settings
 
-![1](/Users/Marcel/Documents/GitHub/MarcelFerrari.github.io/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/1.png)
+![1](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/1.png)
 
 Click on the + button to add a network configuration
 
-![2](/Users/Marcel/Documents/GitHub/MarcelFerrari.github.io/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/2.png)
+![2](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/2.png)
 
 Select Ethernet as the Interface
 
-![3](/Users/Marcel/Documents/GitHub/MarcelFerrari.github.io/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/3.png)
+![3](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/3.png)
 
 Name it whatever you want (*Service name* can be whatever you want)
 
-![4](/Users/Marcel/Documents/GitHub/MarcelFerrari.github.io/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/4.png)
+![4](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/4.png)
 
 **Hit apply** and go back to the *System Preferences window*
 
 ---
 
-Now we have to mess with the *Sharing* settings. Click on the *Sharing* icon.
+Next click on the *Sharing* icon.
 
-![5](/Users/Marcel/Documents/GitHub/MarcelFerrari.github.io/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/5.png)
+![5](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/5.png)
+
+Under internet sharing tick ***Ethernet***
+
+![6](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/6.png)
+
+Now tick ***Internet Sharing*** and hit *Start*
+
+![7](/images/posts/2019-5-14-Use-mac-as-PS4-screen-images/7.png)
