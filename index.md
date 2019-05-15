@@ -15,12 +15,9 @@ Here you will find posts about the most random things, ranging from computer sci
 I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 
 ### About me!
-<img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:50%; margin: 10px; float: left;-webkit-shape-outside: circle();shape-outside: circle();">
-
-
+<img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:50%; margin: 10px; float: right;-webkit-shape-outside: circle();shape-outside: circle();">
 
 I am an 18 year old student from Ticino in Switzerland. Currently I am working on my high school final project and in a year I will move to Zürich to (hopefully) start studying physics at **ETH.**
-
 I am very passionate about a lot of things, like Computer science and science in general (physics, chemistry, ...), Robotics (specifically the LEGO Mindstrorms EV3 platform), Video games (huge Dark Souls fan), Photography and Videography and Music (I love playing the drums).
 ### What am I up to now?
 
