@@ -15,7 +15,6 @@ Here you will find posts about the most random things, ranging from computer sci
 I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 
 ### About me!
-<div>
 <p style="padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:1000px"></p>
 
 
