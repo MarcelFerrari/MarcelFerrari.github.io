@@ -6,7 +6,7 @@ permalink: /
 
 ### Hello!
 
-Hello there! 
+Hello there!
 
 I see your space ship landed on my blog, how exciting!
 
@@ -15,8 +15,8 @@ Here you will find posts about the most random things, ranging from computer sci
 I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 
 ### About me!
-
-<div style="text-align:center; padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:450px;"></div>
+<div>
+<p style="padding: 20px;"><img class="card" src="/images/index/me.jpg" style="max-height:350px; border-radius:1000px"></p>
 
 
 
@@ -37,4 +37,3 @@ As I mentioned earlier I am currently working on my final high school project in
 ### Contact me!
 
 If you wish to contact me, you can reach me through discord `@Marcel Ferrari#0967`. :)
-
