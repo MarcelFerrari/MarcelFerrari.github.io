@@ -8,11 +8,7 @@ permalink: /
 
 Hello there!
 
-I see your space ship landed on my blog, how exciting!
-
-Here you will find posts about the most random things, ranging from computer science, to video games and art.
-
-I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
+I see your space ship landed on my blog, how exciting! Here you will find posts about the most random things, ranging from computer science, to video games and art. I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 
 ### About me!
 
