@@ -7,6 +7,7 @@ permalink: /
 ### Hello!
 
 Hello there! I see your space ship landed on my blog, how exciting!
+
 Here you will find posts about the most random things, ranging from computer science, to video games and art. I hope you will like what I have to share and that you may, in some obscure manner, find it somewhat useful. :)
 <img class="card" src="/images/index/me.jpg" style="max-height:380px; margin: 10px; border-radius:50%; float: right;-webkit-shape-outside: circle();shape-outside: circle();">
 
