@@ -26,7 +26,7 @@ Now that we have everything that is needed, we can proceed with the set-up!
 
 #### Setting everything up
 
-The first step in connecting your PS4 to your Apple device is to download and install the *PS4 Remote Play* software which can be <a href="https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html">downloaded here</a>.
+The first step in connecting your PS4 to your Apple device is to download and install the *PS4 Remote Play* software which can be found <a href="https://remoteplay.dl.playstation.net/remoteplay/lang/en/index.html">here</a>.
 
 This step isn't difficult so I'm going to leave that to you.
 
