@@ -27,7 +27,7 @@ while True: # Start event loop
         window.Close()
         exit(0)
 ```
- 
+
 As you can see this script will open a window containing only the string "Hello World!" and a number from 0 to 10. This might seem like a pointless application, but in fact by packaging this script we can test if the `import` statements work (i.e if the modules are packaged alongside the script). Note that in this case, the script does not require any additional data (we will cover that case later).
 
 To package such a Python script into an OS X APP bundle, execute the following command:
@@ -62,7 +62,7 @@ Now that we know how to package a simple script, let's cover the case where addi
 
 Again, let's take the simple "Hello World!" script as an example. This time we want our GUI to display an image of the earth and to also use it as an icon (**make sure it is in `.icns` format and of size 512x512 px**). We will place the `.png` in a `Resources` folder and we will keep our icon in the document root. Our file hierarchy therefor looks like this:
 
-```.
+```bash
 .
 |____hello-world.py
 |____icon.icns
@@ -159,7 +159,7 @@ I normally create a `package.sh` file where I concatenate the two commands.
 
 Your APP file hierarchy should now look like this:
 
-```.
+```bash
 .
 |____Contents
 | |____MacOS
@@ -173,7 +173,7 @@ Your APP file hierarchy should now look like this:
 
 Already we can see that our icon was applied to the APP file:
 
-![examole-2-compiled](/images/posts/2019-8-19-Bundle-PySimpleGui-scripts-as-OSX-APP-files-with-PyInstaller.md/examole-2-compiled.png)
+![example-2-compiled](/images/posts/2019-8-19-Bundle-PySimpleGui-scripts-as-OSX-APP-files-with-PyInstaller.md/examole-2-compiled.png)
 
 And when we start the `hello-world.app` file we can see that our image was loaded successfully:
 
