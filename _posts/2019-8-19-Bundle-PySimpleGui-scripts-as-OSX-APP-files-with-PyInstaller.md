@@ -27,7 +27,7 @@ while True: # Start event loop
         window.Close()
         exit(0)
 ```
-
+ 
 As you can see this script will open a window containing only the string "Hello World!" and a number from 0 to 10. This might seem like a pointless application, but in fact by packaging this script we can test if the `import` statements work (i.e if the modules are packaged alongside the script). Note that in this case, the script does not require any additional data (we will cover that case later).
 
 To package such a Python script into an OS X APP bundle, execute the following command:
