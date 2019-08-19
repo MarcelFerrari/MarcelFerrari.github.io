@@ -3,8 +3,6 @@ layout: post
 title: Package PysimpleGUI scripts as OSX APP files with PyInstaller
 ---
 
-### Introduction
-
 PySimpleGui is a great python library that allows users to create a simple yet effective GUI for their python script with just a few lines of code (if you haven't already, [you should really check it out](https://pysimplegui.readthedocs.io/en/latest/)). The only problem is that if you your plan is to distribute your GUI app to users, a Python script may not be the most efficient way: different python versions and missing packages are often a good recipe for errors, especially because GUI apps are often aimed at users who don't necessarily have the knowledge to debug these kind of problems. Luckily there is a tool to make the whole distribution process a lot easier for everyone: introducing PyInstaller (again, if you haven't already, [go check it out](https://www.pyinstaller.org)). PyInstaller will package (freeze) your Python script into a stand-alone executable, turning it into a nice bundle that can be easily distributed on virtually any platform (Windows, GNU/Linux, Mac OS X, FreeBSD, Solaris and AIX). Not only does PyInstaller make the distribution process simpler, but it also copies all the imported modules and any other resources that your script needs inside of the executable. This essentially means two things: one is that you get to choose which Python version and modules to package and two is that users won't ever have to deal with installing dependencies or debugging errors caused by different Python versions.
 
 Now, packaging your Python script on Windows is well documented in the [PySimpleGui documentation](https://pysimplegui.readthedocs.io/en/latest/), but going through the same process on OS X is another story. This is why I have decided to write a full tutorial on how to do this.
@@ -13,7 +11,7 @@ Now, packaging your Python script on Windows is well documented in the [PySimple
 
 Let's take this simple "Hello World!" script as an example:
 
-```Python
+```python
 import PySimpleGUI as sg # Import PySimpleGui module
 from sys import exit # from * import statement
 import random # impot * statement
@@ -36,6 +34,7 @@ To package such a Python script into an OS X APP bundle, execute the following c
 
 ```bash
 pyinstaller --onefile --windowed --add-binary='/System/Library/Frameworks/Tk.framework/Tk':'tk' --add-binary='/System/Library/Frameworks/Tcl.framework/Tcl':'tcl' <program_name.py>
+
 ```
 
 Let's understand what is going on:
