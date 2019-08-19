@@ -1,5 +1,3 @@
-<!doctype html>
-<html>
 <head>
 <meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
 <title>Package PysimpleGUI scripts as OSX APP files with PyInstaller</title><link href='https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
@@ -577,4 +575,3 @@ header, .context-menu, .megamenu-content, footer{
 | |____Info.plist
 </pre><p>Already we can see that our icon was applied to the APP file:</p><p><img src='/images/posts/2019-8-19-Bundle-PySimpleGui-scripts-as-OSX-APP-files-with-PyInstaller.md/examole-2-compiled.png' alt='example-2-compiled' referrerPolicy='no-referrer' /></p><p>And when we start the <code>hello-world.app</code> file we can see that our image was loaded successfully:</p><p><img src='/images/posts/2019-8-19-Bundle-PySimpleGui-scripts-as-OSX-APP-files-with-PyInstaller.md/example-2-output.png' alt='example-2-output' referrerPolicy='no-referrer' /></p><p>You can now rename <code>hello-world</code> to whatever you want and distribute it to your users: Hurray!</p><p>Thanks for reading :)</p><p>If you have any questions or comments be sure to post them in the section below.</p><p>If you want to contact me personally, you can add me as friend on discord <code>@Marcel_Ferrari#0967</code> :D</p></div>
 </body>
-</html>
